@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/jlvargasme/jlvargasme.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[About me](about.md)
+
+|[About me](about.md)|[Experience](https://github.com/)|[Academics](https://github.com/)|
+|---|---|---|
 
 ### Markdown
 
