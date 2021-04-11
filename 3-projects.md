@@ -7,7 +7,12 @@ output:
    self_contained: no
 ---
 
-A little bit about my experience as an engineer student.
+Below are some projects I have made at the University of Michigan. My academics interests include:
+- Formal Verification
+- Computational Fluid Dynamics
+- Theory of Differential Equations
+
+
 
 ## Rocket Fins
 
@@ -28,8 +33,12 @@ Fin Skin Prototype            |  Fin Struts
 :-------------------------:|:-------------------------:
 ![Fin Skin Prototype](./pictures/fins.jpg)  |  ![Fin Struts](./pictures/struts.jpg)
 
+<div align="center">
+  2-Way FSI Simulation 
+</div>
 
-
+<div align="center">
+</div>
 <div align="center">
 <iframe src="https://drive.google.com/file/d/1DyipDRDq58apX-IXsTwsVPmWk8TWjV9F/preview?start=1" width="320" height="240" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
@@ -37,36 +46,24 @@ Fin Skin Prototype            |  Fin Struts
 ## Formal Verification
 
 I work with formal verification of hybrid systems in the Verified Aerospace Systems Laboratory at the University of Michigan. Currently adding verification capability to the synchronous language [Zelus](https://zelus.di.ens.fr/).
-## Languages
-
-I am passionate about languages and cultures.
-
-### Japanese
-
-Homestay in Fukuoka and Wahaha Japanese School 2018.
-
-### German
-
-Max Kade Residential Community at the University of Michigan.
-
-### Portuguese
-
-Native Portuguese speaker from Brazil.
-
-### Spanish
-
-High School Spanish Classes.
-
-### Chinese
-
-Self-studying Chinese via Duolingo.
 
 ## F-330 Drone Modification
 
-Build a F-330 drone and added 3D printed conceptual multispectral sensors to test flight stability. 
+Build a F-330 drone and modified it by attaching 3D printed multispectral sensor to test drone flight stability. 
+
+Modified F-330 Prototype           |  3D Printing Sensor Case
+:-------------------------:|:-------------------------:
+![Drone](./pictures/drone1.jpg)  |  ![Fin Struts](./pictures/3dprinting.jpg)
+
 
 ## Remote Sensing
 
 Undergraduate reserach experience at the Environmental Spatial Analysis laboratory. The research included analyzing satellite imagery from Puerto Rican farms to indentify Hurricane Maria's impact on the island economy. Check some of the work at my [GitHub repository](https://github.com/jlvargasme/prhurricane).
 
 This project was part of the Undergraduate Research Opportunity Program ([UROP](https://lsa.umich.edu/urop)) and it received the Blue Ribbon Award in the UROP Academic Symposium Winter 2020.
+
+Algorithm to detect green zones with low vegetation density          |
+:-------------------------:|
+![Drone](./pictures/algo.png)  |  
+
+
