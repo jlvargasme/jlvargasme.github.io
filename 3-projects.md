@@ -31,7 +31,7 @@ Fin Skin Prototype            |  Fin Struts
 
 
 <div align="center">
-<iframe src="https://drive.google.com/file/d/1DyipDRDq58apX-IXsTwsVPmWk8TWjV9F/preview" width="320" height="240" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+<iframe src="https://drive.google.com/file/d/1DyipDRDq58apX-IXsTwsVPmWk8TWjV9F/preview?start=1" width="320" height="240" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
 ## Formal Verification
