@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 |[About me](1-about.md)|[Experience](https://github.com/)|[Academics](https://github.com/)|
-|---|---|---|
 
 ### Markdown
 
