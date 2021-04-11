@@ -2,7 +2,8 @@
 layout: home
 ---
 
-## Hey,
+ <h3>Hey, 
+ </h3>
 
 <div style="float:left;">
   <img style="padding: 0px 20px 50px 0px;" src="./pictures/Jose_Luiz.jpg" alt="drawing" width="25%" align="left" />
