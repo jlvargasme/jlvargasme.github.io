@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Experience
+output:
+  html_document:
+   css: style.css
+   self_contained: no
 ---
 
 A little bit about my experience as an engineer student.
@@ -18,10 +22,17 @@ Rocket fins are aerodynamic structures intended to provide stability during flig
 
 I have worked with Computational Fluid Dynamics (CFD) to simulate stress at hypersonic conditions and Structural simulations to identify the deformation in the Fins due to aerodynamic stresses. A complex project was merging both Fluid and Structural simulations in a Two-Way Fluid Structure Interface to investigate in-flight oscillations to optimize design agains the "flutter condition", unstable oscillations that result in structural failure. 
 
-![Fin Skin Prototype](./pictures/fins.jpg)
 
-![Fin Stuts](./pictures/struts.jpg)
 
+Fin Skin Prototype            |  Fin Struts
+:-------------------------:|:-------------------------:
+![Fin Skin Prototype](./pictures/fins.jpg)  |  ![Fin Struts](./pictures/struts.jpg)
+
+
+
+<div align="center">
+<iframe src="https://drive.google.com/file/d/1DyipDRDq58apX-IXsTwsVPmWk8TWjV9F/preview" width="320" height="240" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
 
 ## Formal Verification
 
