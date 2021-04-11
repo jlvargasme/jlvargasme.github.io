@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academics
+title: Experience
 ---
 
 A little bit about my university studies.
