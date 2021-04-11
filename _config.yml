@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
+# Site settings
 title: [José Luiz Vargas de Mendonça]
+author:
+  name: José Luiz Vargas de Mendonça
+  email: joselvdm@umich.edu
 description: [Aerospace and Computer Engineering - University of Michigan]
+
+# Build settings
+remote_theme: jekyll/minima

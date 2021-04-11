@@ -1,5 +1,8 @@
 ---
 title: Home
+output: 
+  html_document:
+    css: style.css
 ---
 
 ## Welcome to GitHub Pages

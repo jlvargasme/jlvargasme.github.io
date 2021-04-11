@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 |[About me](1-about.md)|[Experience](https://github.com/)|[Academics](https://github.com/)|
-
+<button name="button" onclick="http://www.google.com">Click me</button>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
