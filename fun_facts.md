@@ -9,7 +9,7 @@ I am passionate about languages and cultures and learning about the different wa
 
 <div style="float:left;" >
 
-   <img style="padding: 0px 20px 50px 0px;" src="./pictures/sora.jpg" alt="drawing" width="25%" align="left" />
+   <img style="padding: 0px 20px 50px 0px;" src="./pictures/sora.JPG" alt="drawing" width="25%" align="left" />
   <div>
   <p align="justify"> 
   I made a homestay twice in Fukuoka. The first time, 2017, I travelled from center to south Japan with my father's friend. The second time, it was a mix of study-abroad at the Wahaha Japanese School and homestay with the same family. At left you can see the Kanji (空 - Sora) for "Sky" that I made in a caligraphy class. 
