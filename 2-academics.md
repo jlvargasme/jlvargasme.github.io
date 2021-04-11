@@ -3,9 +3,15 @@ layout: page
 title: Academics
 ---
 
-A little bit about my university studies.
+In this section I present some of the projects developed during classes at UMich.
 
-## About Academics Pages
+## ENGR 100
+
+## EECS 280
+
+## AERO 495 
+
+
 
 Explain about classes, projects made
 
