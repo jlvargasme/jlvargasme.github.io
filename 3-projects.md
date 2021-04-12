@@ -16,7 +16,7 @@ Below are some projects I have made at the University of Michigan. My academics 
 
 ## Rocket Fins
 
-As aerodynamic and software engineer at [Michigan Aeronautical Science Association](https://masa.engin.umich.edu/), I am working on designing and testing the rocket fins for Tangerine Space Machine. 
+As aerodynamic and software engineer at [Michigan Aeronautical Science Association](https://masa.engin.umich.edu/), I am working on designing and testing the rocket fins for Tangerine Space Machine. Being creative is a great part of this project, since I am constantly facing ambiguous problems with an unscontrained path to solutions. Designing the rocket fins helped me to be persistant, as I had to do more research when the simulations failed and, to learn about systems thinking, specially on how this part fits in the entire project. 
 
 Rocket fins are aerodynamic structures intended to provide stability during flight and assure that the rocket goes straight up. During the design process, several factors must be taken into account:
 
@@ -45,7 +45,7 @@ Fin Skin Prototype            |  Fin Struts
 
 ## Formal Verification
 
-I work with formal verification of hybrid systems in the Verified Aerospace Systems Laboratory at the University of Michigan. Currently adding verification capability to the synchronous language [Zelus](https://zelus.di.ens.fr/).
+Recently, I have been working with formal verification of hybrid systems in the Verified Aerospace Systems Laboratory at the University of Michigan. Currently adding verification capability to the synchronous language [Zelus](https://zelus.di.ens.fr/). This project helped me to improve communication and teamwork skills, specially when coordinating with the team to organize reports and divide the workload.
 
 ## F-330 Drone Modification
 
