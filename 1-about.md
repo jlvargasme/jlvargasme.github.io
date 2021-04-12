@@ -11,4 +11,4 @@ Before starting my studies at the University of Michigan, I was able to meet wit
 
  Picture with Astronaut Alumni Al Worden from Apollo 15 during the Aerospace Day, October 2019         |  Meeting with Marcos Pontes, the first Brazilian Astronaut and current Minister of Science, Technology and Innovation
 :--------------------------:|:-------------------------:
-<img src="./pictures/masa.jpg" alt="drawing" width="200"/>  |  <img src="./pictures/ministro.jpg" alt="drawing" width="200"/>
+<img src="./pictures/masa.jpg" alt="drawing" width="100%"/>  |  <img src="./pictures/ministro.jpg" alt="drawing" width="80%"/>
