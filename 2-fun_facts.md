@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun Fact
+title: Fun Facts
 ---
 
 I am passionate about languages and cultures and learning about the different ways people express their tradition, either by diverse types of food, vocabulary or dance. This helps me analyze problems from different perspectives and be creative when proposing solutions. The experiences described below helped to increase my cultural awareness and make me eager to learn about other students I work with.
