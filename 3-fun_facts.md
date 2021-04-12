@@ -47,5 +47,11 @@ High School Spanish Classes.
 
 A recent project has been to learn Chinese. I am currently studying via Duolingo.
 
+## Falling from the Sky
+
+Once I travelled to Australia and New Zealand to skydive and bungee-jump...
+
+   <img style="padding: 0px 20px 50px 0px;" src="./pictures/skydiving.jpg" alt="drawing" width="100%" align="left" />
+
 
 

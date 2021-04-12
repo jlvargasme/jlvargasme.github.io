@@ -49,7 +49,7 @@ I work with formal verification of hybrid systems in the Verified Aerospace Syst
 
 ## F-330 Drone Modification
 
-Build a F-330 drone and modified it by attaching 3D printed multispectral sensor to test drone flight stability. 
+As a tem project at the Center for Socially Engaged design I build a F-330 drone and modified it by attaching 3D printed multispectral sensor to test drone flight stability. I developed leadership skills by organizing the project schedule and deadlines, defining the project goals and delgeating tasks. I learned about additive manufacturing, machining processes, 3D modeling and social research.
 
 Modified F-330 Prototype           |  3D Printing Sensor Case
 :-------------------------:|:-------------------------:

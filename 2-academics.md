@@ -3,7 +3,7 @@ layout: page
 title: Academics
 ---
 
-#### Aerospace
+#### Aerospace Engineering
 - AEROSP 201: Introduction to Aerospace Engineering
 - AEROSP 215: Introduction to Solid Mechanics and Aerospace Structures 
 - AEROSP 225: Introduction to Gas Dynamics
