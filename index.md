@@ -13,12 +13,6 @@ layout: home
   </div>
 </div>
 
-[![alt text][1.1]][1] [![alt text][2.1]][2]
+[![Drone](./pictures/insta.jpg)](https://www.instagram.com/joseluiz_vargas/) [![Drone](./pictures/linkedin.jpg)](https://www.linkedin.com/in/joselvdm/)
 
-
-[1.1]: ./pictures/linkedin.jpg (twitter icon with padding)
-[2.1]: ./pictures/insta.jpg (facebook icon with padding)
-
-[1]: https://www.linkedin.com/in/joselvdm/
-[2]: https://www.instagram.com/joseluiz_vargas/
 
