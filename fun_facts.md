@@ -3,7 +3,7 @@ layout: page
 title: Fun Fact
 ---
 
-I am passionate about languages and cultures and learning about the different ways people express their tradition, either by diverse types of food, vocabulary or dance. This helps me analyze problems from different perspectives and be creative when proposing solutions.
+I am passionate about languages and cultures and learning about the different ways people express their tradition, either by diverse types of food, vocabulary or dance. This helps me analyze problems from different perspectives and be creative when proposing solutions. The experiences described below helped to increase my cultural awareness and make me eager to learn about other students I work with.
 
 ##### Japanese
 
@@ -25,7 +25,7 @@ I am passionate about languages and cultures and learning about the different wa
 
 ##### German
 
-<div style="float:left;" >
+<div style="float:left; padding: 0px 0px 50px 0px" >
 
   <img style="padding: 0px 20px 0px 0px;" src="./pictures/zimt.jpg" alt="drawing" width="40%" align="left" />
   <div>
