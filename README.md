@@ -1,40 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my personal page!
 
-You can use the [editor on GitHub](https://github.com/jlvargasme/jlvargasme.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div style="float:left;">
+  <img style="padding: 0px 20px 100px 0px;" src="./pictures/Jose_Luiz.jpg" alt="drawing" width="30%" align="left" />
+  <div>
+  <p align="justify"> I am a 19 year-old student from Manaus, Brazil, a big city in the middle of the Amazon Rainforest. As a sophomore double-majoring in Aerospace and Computer Engineering, I am curious about how technology can help to improve life on Earth and beyond.  During my time at the University of Michigan, I am getting involved with research to develop safer systems for aerospace vehicles and, to create faster algorithms for analysis of fluid interactions with spacecrafts. I am incoming interns at Amazon Web Services during the Summer, 2021. Passionate about culture and languages, I have studied abroad in Japan and live, virtually, in the Max Kade Haus, a German-speaking community at the University of Michigan.
+  </p>
+  </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Drone](./pictures/insta.jpg)](https://www.instagram.com/joseluiz_vargas/) [![Drone](./pictures/linkedin.jpg)](https://www.linkedin.com/in/joselvdm/)
 
 
-|[About me](1-about.md)|[Experience](https://github.com/)|[Academics](https://github.com/)|
-<button name="button" onclick="http://www.google.com">Click me</button>
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jlvargasme/jlvargasme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
