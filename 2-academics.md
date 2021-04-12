@@ -15,7 +15,7 @@ title: Academics
 
 #### Engineering
 
-- UC 280: Undergraduate Reserach
+- UC 280: Undergraduate Research
 - ENGR 100: Introduction to Engineering - Manufacturing and Society
 - ENGR 101: Introduction to Computer and Programming
 - ENGR 230: Honors Seminar I
@@ -38,7 +38,7 @@ title: Academics
 
 #### Intelectual Breath
 
-- GERMAN 310: Studies of German Culture - Belin
+- GERMAN 310: Studies of German Culture - Berlin
 - GERMAN 312: Geographic Immersion
 - WRITING 305: MWrite Fellows - MATH 216 Instructional Aid
 - PIANO 150: Piano Performance

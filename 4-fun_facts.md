@@ -3,7 +3,7 @@ layout: page
 title: Fun Facts
 ---
 
-I am passionate about languages and cultures and learning about the different ways people express their tradition, either by diverse types of food, vocabulary or dance. This helps me analyze problems from different perspectives and be creative when proposing solutions. The experiences described below helped to increase my cultural awareness and make me eager to learn about other students I work with.
+I am passionate about languages, cultures, and learning about the different ways people express their tradition, either by diverse types of food, vocabulary or dance. This helps me analyze problems from different perspectives and be creative when proposing solutions. The experiences described below helped me to increase my cultural awareness and make me eager to learn about other students I work with.
 
 ##### Japanese
 
@@ -30,7 +30,7 @@ I am passionate about languages and cultures and learning about the different wa
   <img style="padding: 0px 20px 0px 0px;" src="./pictures/zimt.jpg" alt="drawing" width="40%" align="left" />
   <div>
   <p align="justify"> 
-Max Kade Residential Community at the University of Michigan. As part of the community I took German 310 and 312, where I learned about the culture of Berlin. I gave presentations about the "narrative past", "Start-ups in Berlin" and "Fun Fact about Angela Merkel". One of the remarkable activities, was hosting a Zimtsterne (cinnamon stars) cooking event just before Winter break.
+Max Kade Residential Community at the University of Michigan. As part of the community I took German 310 and 312, where I learned about the culture of Berlin. I gave presentations about the "Narrative Past", "Start-ups in Berlin" and "Fun Facts about Angela Merkel". One of the most remarkable activities, was hosting a Zimtsterne (cinnamon stars) cooking event just before Winter break.
   </p>
   </div>
 </div>
@@ -45,7 +45,7 @@ High School Spanish Classes.
 
 #####  Chinese
 
-A recent project has been to learn Chinese. I am currently studying via Duolingo.
+A recent project is to learn Chinese. I am currently studying it on Duolingo.
 
 ## Falling from the Sky
 

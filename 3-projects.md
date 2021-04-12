@@ -7,7 +7,7 @@ output:
    self_contained: no
 ---
 
-Below are some projects I have made at the University of Michigan. My academics interests include:
+Below are some projects I have worked on at the University of Michigan. My academics interests include:
 - Formal Verification
 - Computational Fluid Dynamics
 - Theory of Differential Equations
@@ -16,7 +16,7 @@ Below are some projects I have made at the University of Michigan. My academics 
 
 ## Rocket Fins
 
-As aerodynamic and software engineer at [Michigan Aeronautical Science Association](https://masa.engin.umich.edu/), I am working on designing and testing the rocket fins for Tangerine Space Machine. Being creative is a great part of this project, since I am constantly facing ambiguous problems with an unscontrained path to solutions. Designing the rocket fins helped me to be persistant, as I had to do more research when the simulations failed and, to learn about systems thinking, specially on how this part fits in the entire project. 
+As aerodynamic and software engineer at the [Michigan Aeronautical Science Association](https://masa.engin.umich.edu/), I am working on designing and testing the rocket fins for Tangerine Space Machine. Being creative is a great part of this project, since I am constantly facing ambiguous problems with an unscontrained path to solutions. Designing the rocket fins helped me to be persistant, as I had to do more research when the simulations failed and, to learn about systems thinking, specially on how this part fits in the entire project. 
 
 Rocket fins are aerodynamic structures intended to provide stability during flight and assure that the rocket goes straight up. During the design process, several factors must be taken into account:
 
@@ -25,7 +25,7 @@ Rocket fins are aerodynamic structures intended to provide stability during flig
 - Structural material to sustain temperatures and stress during flight
 - Structrural mass
 
-I have worked with Computational Fluid Dynamics (CFD) to simulate stress at hypersonic conditions and Structural simulations to identify the deformation in the Fins due to aerodynamic stresses. A complex project was merging both Fluid and Structural simulations in a Two-Way Fluid Structure Interface to investigate in-flight oscillations to optimize design agains the "flutter condition", unstable oscillations that result in structural failure. 
+I have worked with Computational Fluid Dynamics (CFD) to simulate stress at hypersonic conditions and Structural simulations to identify the deformation in the Fins due to aerodynamic stresses. A complex project was merging both Fluid and Structural simulations in a Two-Way Fluid Structure Interface to investigate in-flight oscillations to optimize design against the "flutter condition", unstable oscillations that result in structural failure. 
 
 
 
@@ -49,7 +49,7 @@ Recently, I have been working with formal verification of hybrid systems in the 
 
 ## F-330 Drone Modification
 
-As a tem project at the Center for Socially Engaged design I build a F-330 drone and modified it by attaching 3D printed multispectral sensor to test drone flight stability. I developed leadership skills by organizing the project schedule and deadlines, defining the project goals and delgeating tasks. I learned about additive manufacturing, machining processes, 3D modeling and social research.
+As a team project at the Center for Socially Engaged design, I built a F-330 drone and modified it by attaching 3D printed multispectral sensor to test for flight stability. I developed leadership skills by organizing the project schedule, setting deadlines, defining goals and delegating tasks. I learned about additive manufacturing, machining processes, 3D modeling and social research.
 
 Modified F-330 Prototype           |  3D Printing Sensor Case
 :-------------------------:|:-------------------------:
@@ -60,9 +60,9 @@ Modified F-330 Prototype           |  3D Printing Sensor Case
 
 Undergraduate reserach experience at the Environmental Spatial Analysis laboratory. The research included analyzing satellite imagery from Puerto Rican farms to indentify Hurricane Maria's impact on the island economy. Check some of the work at my [GitHub repository](https://github.com/jlvargasme/prhurricane).
 
-This project was part of the Undergraduate Research Opportunity Program ([UROP](https://lsa.umich.edu/urop)) and it received the Blue Ribbon Award in the UROP Academic Symposium Winter 2020.
+This project was part of the Undergraduate Research Opportunity Program ([UROP](https://lsa.umich.edu/urop)) and it received the Blue Ribbon Award in the UROP Academic Symposium, Winter 2020.
 
-Algorithm to detect green zones with low vegetation density          |
+Algorithm to Detect Green Zones with Low Vegetation Density          |
 :-------------------------:|
 ![Drone](./pictures/algo.png)  |  
 
