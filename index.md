@@ -16,8 +16,8 @@ layout: home
 [![alt text][1.1]][1] [![alt text][2.1]][2]
 
 
-[1.1]: ./pictures/linkedin.png (twitter icon with padding)
-[2.1]: ./pictures/insta.png (facebook icon with padding)
+[1.1]: ./pictures/linkedin.jpg (twitter icon with padding)
+[2.1]: ./pictures/insta.jpg (facebook icon with padding)
 
 [1]: https://www.linkedin.com/in/joselvdm/
 [2]: https://www.instagram.com/joseluiz_vargas/
