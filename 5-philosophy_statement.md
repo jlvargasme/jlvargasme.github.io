@@ -3,8 +3,6 @@ layout: page
 title: Philosophy Statement
 ---
 
-##### Philosophy Statement
-
 I believe that science and engineering can be used to empower people and make the world a better place. Knowledge is a key component to making good decisions, and a STEM background helps to base these decisions on data and fundamental physical principles. By using this information, one can create new technology and use it to solve different problems in areas not only limited to engineering itself, but that also expand to politics, environmental science, law, and social sciences. I believe that everyone should have the opportunity to explore their interest areas and learn the tools necessary to achieve their goals.  
 
 An important aspect to contribute to the above statement is to create a learning environment based on respect and equal opportunities for the students. I am contributing to this environment inside the Aerospace Department at the University of Michigan, by working as the Academic Chair of Sigma Gamma Tau Honor Society. As part of this position, I helped to connect students needing help in classes with students willing to provide tutoring. This semester, I organized four research seminars to help students learn about different areas of aerospace engineering as an attempt to help them find the subjects they are passionate about. When the seminar topic is relevant to other areas, I invite undergraduate students from these departments, such as Computer Science and Computer Engineering. Additionally, I helped the Center for Engineering Diversity and Outreach (CEDO) by mentoring a first-year engineering student on academic planning, class advising, and academic-social time balance.
