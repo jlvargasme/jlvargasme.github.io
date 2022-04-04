@@ -45,7 +45,17 @@ Fin Skin Prototype            |  Fin Struts
 
 ## Formal Verification
 
-Recently, I have been working with formal verification of hybrid systems in the Verified Aerospace Systems Laboratory at the University of Michigan. Currently adding verification capability to the synchronous language [Zelus](https://zelus.di.ens.fr/). This project helped me to improve communication and teamwork skills, specially when coordinating with the team to organize reports and divide the workload.
+Recently, I have been working with formal verification of hybrid systems in the Verified Aerospace Systems Laboratory at the University of Michigan. Currently adding verification capability to the synchronous language [Zelus](https://zelus.di.ens.fr/). 
+
+I modified the Zelus compiler by inlcuding an additional step that implement typing rules for refinement types. The resulting language, called MARVLus, supports refinement type annotation for primitive variables, functions, tuples and streams. The code below is an example of a simple program with refinement type annotation that was succesfully verified by the MARVLus compiler.
+
+```ocaml
+let pi = 3.14159
+let w = 2. *. pi
+let y :float{y >= pi} = 4.0
+```
+
+This project helped me to improve communication and teamwork skills, specially when coordinating with the team to organize reports and divide the workload.
 
 ## F-330 Drone Modification
 
