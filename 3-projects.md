@@ -43,7 +43,7 @@ Fin Skin Prototype            |  Fin Struts
 <iframe src="https://drive.google.com/file/d/1DyipDRDq58apX-IXsTwsVPmWk8TWjV9F/preview?start=1" width="320" height="240" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
-## Formal Verification
+## Formal Verification and Programming Language Design
 
 Recently, I have been working with formal verification of hybrid systems in the Verified Aerospace Systems Laboratory at the University of Michigan. Currently adding verification capability to the synchronous language [Zelus](https://zelus.di.ens.fr/). 
 
