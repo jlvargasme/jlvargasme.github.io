@@ -10,3 +10,14 @@ An important aspect to contribute to the above statement is to create a learning
 In the future, I plan to start a STEM startup and create a foundation for STEM diversity in my home country Brazil. In Brazil, the academic plan for middle and high school is 15 subjects, and currently, there is no support for computer science and hands-on engineering classes. The goal of this foundation is to complement the middle and high school curriculum by teaching programming fundamentals (“hello world”, data structures, and algorithms) and providing project-based engineering opportunities to students. This foundation will contribute to the share engineering knowledge across the country and empower students to find their passion and pursue their goals.  
 
 Providing people opportunities to explore and learn about STEM fields is an effective approach to better education in any part of the world. I believe that my current and future contributions will bring me closer to making an impact in empowering people through STEM. I am using my current engineering education to explore different areas in Aerospace and Computer Engineering and, it has been three years of multiple classes, project team, and research experience to finally start understanding where my passions are and how I can use them to contribute to society. I am grateful for this opportunity at the University of Michigan, and I believe that if this was extended to more people, especially in areas of the world that are still not engaged in STEM, we could find creative and multi-disciplinary solutions to complex problems we face today and will face in the future.
+
+
+## Smart Goals
+
+# 1 Engine Testing
+
+As part of MASA rocketry team, I am planning to test the avionics system for the rocket engine and ground support equipment by May 18th. This goals will be completed succesfully if the avionics systems can succesfully perform an engine hotfire test.
+
+# 2 Avionics Lead Planning
+
+Over the summer, I will be working on the organizaiton of MASA's Avionics subteam projects. My goal is to plan how to make the team more appealing to CS majors, increase new member retention and create a series of lectures aiming to help knowldge transfer to new members. This is planned to be completed by August 28th.

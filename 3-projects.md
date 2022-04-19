@@ -55,7 +55,7 @@ let w = 2. *. pi
 let y :float{y >= pi} = 4.0
 ```
 
-This project helped me to improve communication and teamwork skills, specially when coordinating with the team to organize reports and divide the workload.
+This project helped me to improve communication and teamwork skills, specially when coordinating with the team to organize reports and divide the workload. I received the [UM Research Carrer Award](https://www.michigandaily.com/news/academics/five-umich-students-receive-prestigious-2022-goldwater-scholarship/) due to the development of this project.
 
 ## F-330 Drone Modification
 
