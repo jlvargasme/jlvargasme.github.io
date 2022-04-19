@@ -12,12 +12,12 @@ In the future, I plan to start a STEM startup and create a foundation for STEM d
 Providing people opportunities to explore and learn about STEM fields is an effective approach to better education in any part of the world. I believe that my current and future contributions will bring me closer to making an impact in empowering people through STEM. I am using my current engineering education to explore different areas in Aerospace and Computer Engineering and, it has been three years of multiple classes, project team, and research experience to finally start understanding where my passions are and how I can use them to contribute to society. I am grateful for this opportunity at the University of Michigan, and I believe that if this was extended to more people, especially in areas of the world that are still not engaged in STEM, we could find creative and multi-disciplinary solutions to complex problems we face today and will face in the future.
 
 
-## Smart Goals
+# Smart Goals
 
-# 1 Engine Testing
+## 1 Engine Testing
 
 As part of MASA rocketry team, I am planning to test the avionics system for the rocket engine and ground support equipment by May 18th. This goals will be completed succesfully if the avionics systems can succesfully perform an engine hotfire test.
 
-# 2 Avionics Lead Planning
+## 2 Avionics Lead Planning
 
 Over the summer, I will be working on the organizaiton of MASA's Avionics subteam projects. My goal is to plan how to make the team more appealing to CS majors, increase new member retention and create a series of lectures aiming to help knowldge transfer to new members. This is planned to be completed by August 28th.
